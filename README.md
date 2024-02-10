@@ -17,6 +17,7 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VedantNagar&show_icons=true&locale=en&layout=compact" alt="VedantNagar" /></p>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VedantNagar&theme=dark&hide_border=false)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
