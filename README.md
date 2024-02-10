@@ -17,7 +17,7 @@
 <h3 align="left">GitHub Stats:</h3>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VedantNagar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantNagar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantNagar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
